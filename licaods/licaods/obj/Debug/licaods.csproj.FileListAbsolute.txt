@@ -1,0 +1,60 @@
+C:\Users\Aluno\Desktop\licaods\licaods\bin\Debug\licaods.exe.config
+C:\Users\Aluno\Desktop\licaods\licaods\bin\Debug\cadastro.mdf
+C:\Users\Aluno\Desktop\licaods\licaods\bin\Debug\cadastro_log.ldf
+C:\Users\Aluno\Desktop\licaods\licaods\bin\Debug\licaods.exe
+C:\Users\Aluno\Desktop\licaods\licaods\bin\Debug\licaods.pdb
+C:\Users\Aluno\Desktop\licaods\licaods\obj\Debug\licaods.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\licaods\licaods\obj\Debug\licaods.frmusuario.resources
+C:\Users\Aluno\Desktop\licaods\licaods\obj\Debug\licaods.Properties.Resources.resources
+C:\Users\Aluno\Desktop\licaods\licaods\obj\Debug\licaods.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\licaods\licaods\obj\Debug\licaods.exe
+C:\Users\Aluno\Desktop\licaods\licaods\obj\Debug\licaods.pdb
+C:\Users\Aluno\Desktop\licaods\licaods\obj\Debug\licaods.frmcliente.resources
+C:\Users\Aluno\Desktop\licaods\licaods\obj\Debug\licaods.frmfornecedor.resources
+C:\Users\Aluno\Desktop\licaods\licaods\obj\Debug\licaods.frmproduto.resources
+C:\Users\vanes\Desktop\licaods\licaods\bin\Debug\cadastro.mdf
+C:\Users\vanes\Desktop\licaods\licaods\bin\Debug\cadastro_log.ldf
+C:\Users\vanes\Desktop\licaods\licaods\bin\Debug\licaods.exe.config
+C:\Users\vanes\Desktop\licaods\licaods\bin\Debug\licaods.exe
+C:\Users\vanes\Desktop\licaods\licaods\bin\Debug\licaods.pdb
+C:\Users\vanes\Desktop\licaods\licaods\obj\Debug\licaods.csprojAssemblyReference.cache
+C:\Users\vanes\Desktop\licaods\licaods\obj\Debug\licaods.frmcliente.resources
+C:\Users\vanes\Desktop\licaods\licaods\obj\Debug\licaods.frmfornecedor.resources
+C:\Users\vanes\Desktop\licaods\licaods\obj\Debug\licaods.menuStrip1.resources
+C:\Users\vanes\Desktop\licaods\licaods\obj\Debug\licaods.frmproduto.resources
+C:\Users\vanes\Desktop\licaods\licaods\obj\Debug\licaods.frmusuario.resources
+C:\Users\vanes\Desktop\licaods\licaods\obj\Debug\licaods.Properties.Resources.resources
+C:\Users\vanes\Desktop\licaods\licaods\obj\Debug\licaods.csproj.GenerateResource.cache
+C:\Users\vanes\Desktop\licaods\licaods\obj\Debug\licaods.csproj.CoreCompileInputs.cache
+C:\Users\vanes\Desktop\licaods\licaods\obj\Debug\licaods.exe
+C:\Users\vanes\Desktop\licaods\licaods\obj\Debug\licaods.pdb
+C:\Users\Aluno\Desktop\licaods\licaods\obj\Debug\licaods.frmPesquisaCliente.resources
+C:\Users\Aluno\Desktop\licaods\licaods\obj\Debug\licaods.frmPesquisaFornecedor.resources
+C:\Users\Aluno\Desktop\licaods\licaods\obj\Debug\licaods.FrmPesquisaProduto.resources
+C:\Users\Aluno\Desktop\licaods\licaods\obj\Debug\licaods.frmPesquisaUsuario.resources
+C:\Users\Aluno\OneDrive - Etec Centro Paula Souza\Desktop\licaods\licaods\bin\Debug\licaods.exe.config
+C:\Users\Aluno\OneDrive - Etec Centro Paula Souza\Desktop\licaods\licaods\obj\Debug\licaods.exe
+C:\Users\Aluno\OneDrive - Etec Centro Paula Souza\Desktop\licaods\licaods\obj\Debug\licaods.pdb
+C:\Users\Aluno\OneDrive - Etec Centro Paula Souza\Desktop\licaods\licaods\bin\Debug\cadastro.mdf
+C:\Users\Aluno\OneDrive - Etec Centro Paula Souza\Desktop\licaods\licaods\bin\Debug\cadastro_log.ldf
+C:\Users\Aluno\OneDrive - Etec Centro Paula Souza\Desktop\licaods\licaods\bin\Debug\licaods.exe
+C:\Users\Aluno\OneDrive - Etec Centro Paula Souza\Desktop\licaods\licaods\bin\Debug\licaods.pdb
+C:\Users\Aluno\OneDrive - Etec Centro Paula Souza\Desktop\licaods\licaods\obj\Debug\licaods.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\OneDrive - Etec Centro Paula Souza\Desktop\licaods\licaods\obj\Debug\licaods.frmcliente.resources
+C:\Users\Aluno\OneDrive - Etec Centro Paula Souza\Desktop\licaods\licaods\obj\Debug\licaods.frmfornecedor.resources
+C:\Users\Aluno\OneDrive - Etec Centro Paula Souza\Desktop\licaods\licaods\obj\Debug\licaods.frmPesquisaCliente.resources
+C:\Users\Aluno\OneDrive - Etec Centro Paula Souza\Desktop\licaods\licaods\obj\Debug\licaods.frmPesquisaFornecedor.resources
+C:\Users\Aluno\OneDrive - Etec Centro Paula Souza\Desktop\licaods\licaods\obj\Debug\licaods.FrmPesquisaProduto.resources
+C:\Users\Aluno\OneDrive - Etec Centro Paula Souza\Desktop\licaods\licaods\obj\Debug\licaods.frmPesquisaUsuario.resources
+C:\Users\Aluno\OneDrive - Etec Centro Paula Souza\Desktop\licaods\licaods\obj\Debug\licaods.menuStrip1.resources
+C:\Users\Aluno\OneDrive - Etec Centro Paula Souza\Desktop\licaods\licaods\obj\Debug\licaods.frmproduto.resources
+C:\Users\Aluno\OneDrive - Etec Centro Paula Souza\Desktop\licaods\licaods\obj\Debug\licaods.frmusuario.resources
+C:\Users\Aluno\OneDrive - Etec Centro Paula Souza\Desktop\licaods\licaods\obj\Debug\licaods.Properties.Resources.resources
+C:\Users\Aluno\OneDrive - Etec Centro Paula Souza\Desktop\licaods\licaods\obj\Debug\licaods.csproj.GenerateResource.Cache
+C:\Users\vanes\Desktop\licaods\licaods\obj\Debug\licaods.frmPesquisaCliente.resources
+C:\Users\vanes\Desktop\licaods\licaods\obj\Debug\licaods.frmPesquisaFornecedor.resources
+C:\Users\vanes\Desktop\licaods\licaods\obj\Debug\licaods.FrmPesquisaProduto.resources
+C:\Users\vanes\Desktop\licaods\licaods\obj\Debug\licaods.frmPesquisaUsuario.resources
+C:\Users\Aluno\Desktop\licaods\licaods\obj\Debug\licaods.info.resources
+C:\Users\Aluno\Desktop\licaods\licaods\obj\Debug\licaods.frmlogin.resources
+C:\Users\Aluno\Desktop\licaods\licaods\obj\Debug\licaods.frmPrincipal.resources
